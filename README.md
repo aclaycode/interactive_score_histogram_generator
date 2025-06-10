@@ -12,7 +12,7 @@ The histogram then uses horizontal bars of asterisks to show the number of score
 - User prompted to exit program or enter new set of scores (program terminates or restarts)
 
 ## Example Output
-![image alt](https://github.com/aclaycode/interactive_score_histogram_generator/blob/main/interactive_score_histogram_generator_example_output.png?raw=true)
+![Screenshot](https://github.com/aclaycode/interactive_score_histogram_generator/blob/main/interactive_score_histogram_generator_example_output.png?raw=true)
 
 ## How to Compile  
 ```bash```
