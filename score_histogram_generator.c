@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------
 * Programmer: AJ Clay
 * Date: 06/29/15
-* Name: score_histogram_generator/main.c
+* Name: score_histogram_generator.c
 * Description:  C program that displays a histogram of a set of scores entered from the keyboard.  There is a predefined maximum score and number of intervals.
                 The user enters as many scores as he/she wishes and the program keeps track of how many numbers were entered in each interval.
                 The histogram then uses horizontal bars of asterisks to show the number of scores in each interval as well as the number of perfect scores.
