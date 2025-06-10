@@ -9,12 +9,14 @@ The histogram then uses horizontal bars of asterisks to show the number of score
 - User prompted to enter scores or print histogram (in main function which loops until sentinel value is entered)  
 - `getScores` function gets scores from user and keeps track of how many times user enters a number in each interval (which loops until sentinel value is entered)  
 - `printHistogram` function displays histogram of intervals and prints "*" for number entered in each interval  
-- User prompted to exit program or enter new set of scores (program terminates or restarts)  
+- User prompted to exit program or enter new set of scores (program terminates or restarts)
+
+## Example Output
+![Screenshot](![Screenshot](screenshot.png)
 
 ## How to Compile  
 ```bash```
 gcc score_histogram_generator.c -o score_histogram_generator.exe
-
 
 ## How to Run
 On Windows PowerShell or Command Prompt, navigate to the rolder containing the executable and run:
