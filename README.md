@@ -15,12 +15,15 @@ The histogram then uses horizontal bars of asterisks to show the number of score
 ![Screenshot](https://github.com/aclaycode/interactive_score_histogram_generator/blob/main/example_output.png?raw=true)
 
 ## How to Compile  
-```bash```
+```bash
 gcc score_histogram_generator.c -o score_histogram_generator.exe
+```
 
 ## How to Run
 On Windows PowerShell or Command Prompt, navigate to the rolder containing the executable and run:
+```
 ./score_histogram_generator.exe
+```
 
 ## Features
 - Supports user input of multiple scores until sentinel value is entered
